@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bs0LT1tjhG5li8+3Xnz04Ghxo6P+PN0woHo/wWZbNw7nAfq3dUUIc37HIR7MJ6JMAaOMzkFUMCXJx+69PJsp/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rashik\\source\\repos\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.6.0\\microsoft.identitymodel.jsonwebtokens.6.6.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.identitymodel.logging\\6.6.0\\microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.6.0\\microsoft.identitymodel.tokens.6.6.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.6.0\\system.identitymodel.tokens.jwt.6.6.0.nupkg.sha512",
+    "C:\\Users\\Rashik\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

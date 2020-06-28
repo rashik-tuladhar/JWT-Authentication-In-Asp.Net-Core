@@ -43,6 +43,7 @@ namespace JwtAuthentication.Controllers
             }
             return response;
         }
+        //[ApiExplorerSettings(IgnoreApi = true)]
         /// <summary>
         /// Build token after successful credentials validation
         /// </summary>
@@ -65,7 +66,7 @@ namespace JwtAuthentication.Controllers
             };
             return details;
         }
-
+        [ApiExplorerSettings(IgnoreApi = true)]
         public TokenDetails AuthenticateUser(TokenRequest tokenRequest)
         {
             var tokenDetails = new TokenDetails();
@@ -74,7 +75,7 @@ namespace JwtAuthentication.Controllers
                 tokenDetails.Email = "hello@rashik.com.np";
                 tokenDetails.Name = "Rashik Tuladhar";
                 tokenDetails.Roles =
-                    "auth.weather,auth.FullName"; //roles are separated by comma(,) which is also mentioned in constant class named AuthorizationConstants
+                    "auth.weather,auth.FullName,auth.NoRole"; //roles are separated by comma(,) which is also mentioned in constant class named AuthorizationConstants
 
             }
             return tokenDetails;

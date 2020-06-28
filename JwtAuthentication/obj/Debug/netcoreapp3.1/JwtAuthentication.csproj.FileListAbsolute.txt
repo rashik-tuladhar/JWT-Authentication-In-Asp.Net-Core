@@ -25,5 +25,10 @@ C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netco
 C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp3.1\JwtAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp3.1\JwtAuthentication.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Rashik\source\repos\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp3.1\JwtAuthentication.MvcApplicationPartsAssemblyInfo.cache
